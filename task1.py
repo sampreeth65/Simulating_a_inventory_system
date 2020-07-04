@@ -1,6 +1,5 @@
 """
-Student Name : Sampreeth Amith Kumar
-Student ID : 31169317
+Author Name : Sampreeth Amith Kumar
 Start Date : 10/04/2020
 Last Modified Date : 30/04/2020
 Description : Reading data from AU_INV_START.txt and storing
